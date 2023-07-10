@@ -1,0 +1,7 @@
+Open         4.070700e+02
+High         4.123500e+02
+Low          4.070200e+02
+Close        4.102800e+02
+Adj Close    3.967308e+02
+Volume       1.063940e+08
+Name: 2021-05-13 00:00:00, dtype: float64
